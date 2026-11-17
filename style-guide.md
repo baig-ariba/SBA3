@@ -13,7 +13,7 @@ The designs were created to the following widths:
 ### Primary
 
 ### Text
-- Purple 300 (sub-heading at the top of the app UI): #d89eff
+- Purple 300 (sub-heading at the top of the app UI): #e9e0ee
 - Purple 600 (chat on the left): #9241c8
 - Gray 500 (chat on the right, paragraph): #a39daa
 - Gray 300 (placeholder text): #c6cacd
