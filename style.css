@@ -1,0 +1,10 @@
+.background{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    background-color: #ffffff;
+}
